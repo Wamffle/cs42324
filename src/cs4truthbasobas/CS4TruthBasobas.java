@@ -1,5 +1,6 @@
 package cs4truthbasobas;
 
+public class CS4TruthBasobas {
 /**
  *
  * @author TRUTH
