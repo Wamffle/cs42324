@@ -6,7 +6,7 @@ public class CS4TruthBasobas {
  * @author TRUTH
  */
 public static void main(String[] args) {
-        //nickname, age, main hobby, snack preference
+        //nickname + surname, age, main hobby, snack preference
         
         String sib1 = "Yvette Basobas ";
         int age1 = 19;
